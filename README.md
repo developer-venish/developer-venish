@@ -8,11 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science , Analytics , Web Development and much more**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 👨‍💻 All of my projects are available at [courster.in](courster.in)
-
-- 📝 I regularly write articles on [courster.in](courster.in)
+- 👯 I’m looking to collaborate on **Web Development Projects & Data Science**
 
 - 💬 Ask me about **Web Development , Data Analytics and much more**
 
