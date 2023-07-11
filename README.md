@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Data Science , Analytics , Web Development and much more**
 
-- 👯 I’m looking to collaborate on **Web Development Projects & Data Science**
+- 👯 I’m looking to collaborate on **Web Development Projects & Data Science Projects**
 
 - 💬 Ask me about **Web Development , Data Analytics and much more**
 
-- 📫 How to reach me **developervenish@gmail.com**
+- 📫 Get in touch by **developervenish@gmail.com**
 
 - ⚡ Fun fact **I am multi talented with programmer also a Digital marketing Expert.**
 
