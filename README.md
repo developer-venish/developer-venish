@@ -1,10 +1,11 @@
-![logo](https://cdn-icons-png.flaticon.com/512/4727/4727424.png)
+![logo](https://cdn-icons-png.flaticon.com/512/4727/4727424qq.png)
 
 <h1 align="center">Hi 👋, I'm Venish Surani</h1>
 <h3 align="center">A passionate and enthusiastic Learner.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-venish&label=Profile%20views&color=0e75b6&style=flat" alt="developer-venish" /> </p>
+<img align="right" alt="coding" width="400" src="https://cdn-icons-png.flaticon.com/512/4727/4727424.png">
 
 - 🌱 I’m currently learning **Data Science , Analytics , Web Development and much more**
 
