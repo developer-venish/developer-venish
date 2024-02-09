@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGjpGxg44FDFQ/profile-displaybackgroundimage-shrink_350_1400/0/1675614119253?e=1691625600&v=beta&t=ArGQ28HNbF0chKyNiYKxBhYVhdxpUwEgqAKbc7q0Gt0)
+![logo](https://cdn-icons-png.flaticon.com/512/4727/4727424.png)
 
 <h1 align="center">Hi 👋, I'm Venish Surani</h1>
 <h3 align="center">A passionate and enthusiastic Learner.</h3>
